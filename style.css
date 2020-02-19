@@ -18,15 +18,15 @@ html, body {
 }
 
 .main > h1 { 
-color: white;
+color: black;
 	 position: relative;
   left: 30px;
 }
 body {
-  color: white;
+  color: black;
 }
 .main a {
-    color: white; 
+    color: black; 
     background-color: transparent; 
     text-decoration: none;
 	 position: relative;
