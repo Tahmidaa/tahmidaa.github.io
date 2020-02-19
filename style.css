@@ -20,6 +20,9 @@ html, body {
 .main > h1 { 
 color: white;
 }
+body {
+  color: white;
+}
 .main a {
     color: #3b5998; 
     background-color: transparent; 
