@@ -19,8 +19,7 @@ html, body {
 
 .main > h1 { 
 color: black;
-	 position: relative;
-  left: 30px;
+	 
 }
 body {
   color: black;
@@ -29,14 +28,12 @@ body {
     color: black; 
     background-color: transparent; 
     text-decoration: none;
-	 position: relative;
-  left: 30px;
+	 
 }
  .main a:hover {
  	color: red; 
     background-color: transparent; 
     text-decoration: none;
-	  position: relative;
-  left: 30px;
+	  
  }
 
